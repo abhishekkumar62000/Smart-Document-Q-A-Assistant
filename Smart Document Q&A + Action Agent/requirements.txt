@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-openai
+langchain-community
+faiss-cpu
+pypdf
+python-dotenv
+openai
+tiktoken
+gtts
+requests
+wordcloud
+matplotlib
