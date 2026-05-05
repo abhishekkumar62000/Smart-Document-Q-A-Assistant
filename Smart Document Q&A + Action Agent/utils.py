@@ -5,7 +5,7 @@ from pypdf import PdfReader
 try:
     from langchain.text_splitter import RecursiveCharacterTextSplitter
 except ImportError:
-    from langchain_text_splitters import RecursiveCharacterTextSplitter
+    from langchain_text_splitters import RecursiveCharacterTextSplitter 
 
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain_community.vectorstores import FAISS
